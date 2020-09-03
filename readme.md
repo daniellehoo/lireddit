@@ -1,3 +1,9 @@
+## YouTube Tutorial:
+https://www.youtube.com/watch?v=I6ypD7qv3Z8
+
+## Github Repo:
+https://github.com/benawad/lireddit
+
 ## VS Code Extensions:
 Bracket Pair Colorizer
 Docker
