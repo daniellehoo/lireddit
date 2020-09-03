@@ -4,6 +4,9 @@ https://www.youtube.com/watch?v=I6ypD7qv3Z8
 ## Github Repo:
 https://github.com/benawad/lireddit
 
+## Discord:
+https://discord.com/channels/446854611937263616/456284222680727552/536838126870462475
+
 ## VS Code Extensions:
 Bracket Pair Colorizer
 Docker
@@ -28,6 +31,8 @@ yarn add -D nodemon
 yarn add @mikro-orm/cli @mikro-orm/core @mikro-orm/migrations @mikro-orm/postgresql pg
 yarn watch
 npx mikro-orm migration:create 
+yarn add express apollo-server-express graphql type-graphql
+yarn add -D @types/express
 
 ## package.json
 can add start script with src file
